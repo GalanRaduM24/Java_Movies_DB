@@ -8,9 +8,9 @@ import java.util.Collections;
 import java.util.List;
 
 public class DatabaseManager {
-    private static final String URL = "" ;  //insert database path
-    private static final String USER = "";  //insert database user
-    private static final String PASSWORD = ""; //insert databse admin
+    private static final String URL = "" ; //add database path
+    private static final String USER = ""; //add dtabase user
+    private static final String PASSWORD = ""; //add database password
 
     public static Connection getConnection() throws SQLException {
         try {
