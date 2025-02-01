@@ -49,6 +49,6 @@ The application uses SQLite to store movie details with the following structure:
 - **Deleting a Movie:** Select a movie and click 'Delete Movie'.
 
 ## Screenshots
-*(https://github.com/GalanRaduM24/Java_Movies_DB/blob/main/Pictures/img.png)*
-*(https://github.com/GalanRaduM24/Java_Movies_DB/blob/main/Pictures/img_1.png)*
+![image](https://github.com/GalanRaduM24/Java_Movies_DB/blob/main/Pictures/img.png)
+![image](https://github.com/GalanRaduM24/Java_Movies_DB/blob/main/Pictures/img_1.png)
 
