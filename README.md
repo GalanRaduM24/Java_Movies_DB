@@ -19,7 +19,7 @@ Movie Database Manager is a JavaFX application that allows users to manage a mov
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/movie-database-manager.git
+   git clone https://github.com/GalanRaduM24/Java_Movies_DB
    cd movie-database-manager
    ```
 2. Open the project in an IDE that supports JavaFX (e.g., IntelliJ IDEA, Eclipse with e(fx)clipse plugin).
@@ -49,5 +49,6 @@ The application uses SQLite to store movie details with the following structure:
 - **Deleting a Movie:** Select a movie and click 'Delete Movie'.
 
 ## Screenshots
-*(Add relevant screenshots here)*
+*(https://github.com/GalanRaduM24/Java_Movies_DB/blob/main/Pictures/img.png)*
+*(https://github.com/GalanRaduM24/Java_Movies_DB/blob/main/Pictures/img_1.png)*
 
